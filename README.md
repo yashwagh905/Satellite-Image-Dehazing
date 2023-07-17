@@ -1,2 +1,7 @@
-# Satellite-Image-Dehazing
-An image dehazing solution for satellite images encapsulated with clouds, haze to some extent by air pollution.
+# README
+
+- Removes Haze from images
+- deHaze.ipynb
+
+## Example
+- ![output](output.png)
